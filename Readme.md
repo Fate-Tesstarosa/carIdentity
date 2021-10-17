@@ -6,7 +6,7 @@
 5. 将carPlateIdentity.py程序的plate_model_path、char_model_path修改成自己训练好的模型路径，下面测试图片的img路径也修改成自己图片的路径，执行该程序进行车牌字符检测。
 
 # 操作环境
-Python3.6、Tensorflow==1.12.*、opencv-python==3.4.4.*
+Python3.6、Tensorflow==1.12./*、opencv-python==3.4.4./*
 
 # 源项目Fork by
 https://github.com/simple2048/CarPlateIdentity
